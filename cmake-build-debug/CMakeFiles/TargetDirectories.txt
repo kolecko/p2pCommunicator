@@ -1,3 +1,0 @@
-/Users/matejkolecani/Documents/zdrojové kódy/CLionProjects/p2p-com/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/matejkolecani/Documents/zdrojové kódy/CLionProjects/p2p-com/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/matejkolecani/Documents/zdrojové kódy/CLionProjects/p2p-com/cmake-build-debug/CMakeFiles/p2p_com.dir
